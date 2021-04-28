@@ -16,4 +16,7 @@
 <h2 align="left"> 😎  About Me:</h2> 
 -:computer: I am trying to become a Front-End developer as a first step. <br>
  -🎒 Management Information Systems Student at  <a href="https://www.atu.edu.tr/#!/" target="_blank"> Education - </a>
+ 
+<h2 align="left">💙 Let's get connected:</h2>
 
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melihmerall/)](https://www.linkedin.com/in/melihmerall/) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melihmerall)](https://twitter.com/melihmerall) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/melihmeralll/)](https://www.facebook.com/melihmeralll/) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/melih.merall/)](https://www.instagram.com/melih.merall/)
