@@ -1,7 +1,7 @@
  <abc>
   <br>Hi ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
    I'm Melih :blush: 
-   <br> <a href="https://www.instagram.com/melih.merall/" target="_blank" ><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" target="_blank" alt="Coder GIF" width="500"></a>
+   <br> <a href="https://www.instagram.com/melih.merall/" target="_self" ><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" target="_blank" alt="Coder GIF" width="500"></a>
  </abc>
   
   <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -17,4 +17,3 @@
 -:computer: I am trying to become a Front-End developer as a first step. <br>
  -🎒 Management Information Systems Student at  <a href="https://www.atu.edu.tr/#!/" target="_blank"> Education - </a>
 
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
