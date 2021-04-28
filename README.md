@@ -15,5 +15,5 @@
   
 <h2 align="left"> 😎  About Me:</h2> 
 -:computer: I am trying to become a Front-End developer as a first step. <br>
- 🎒 <a href="https://www.atu.edu.tr/#!/" target="_blank"> Education</a>
+ 🎒 Management Information Systems Student at  <a href="https://www.atu.edu.tr/#!/" target="_blank"> Education - </a>
 
