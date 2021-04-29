@@ -9,7 +9,7 @@
       <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/java/default.asp" target="_blank"> <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" alt="JAVA" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/default.asp" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/380/380007.svg?token=exp=1619600415~hmac=3678149b6930bc222aadac3e954129e1" alt="C#" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/cs/default.asp" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/74/74906.svg?token=exp=1619728519~hmac=8c3bf85a2714247241eb21c5177b91a2" alt="C#" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
   
