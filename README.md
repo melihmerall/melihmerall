@@ -1,6 +1,6 @@
  <abc>
-  <br>Hi ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-   I'm Melih :blush: 
+  <strong>Hi everyone!</strong> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+ <strong>I'm Melih</strong> :blush: 
   <br> <br> <a href="https://giphy.com/" target="_blank" ><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" target="_blank" alt="Coder GIF" width="400"></a>
  </abc>
   
