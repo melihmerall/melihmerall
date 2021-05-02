@@ -1,8 +1,17 @@
  <abc>
   <strong>Hi everyone!</strong> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
- <strong>I'm Melih</strong> :blush: 
+ <strong>I'm Melih</strong> :blush:
+ <h2 align="left"> 😎  About Me:</h2> 
+-:computer: I am trying to become a Front-End developer as a first step. <br>
+ -🎒 Management Information Systems Student at  <a href="https://www.atu.edu.tr/#!/" target="_blank"> ATU  </a>
+ 
+<h2 align="left">💙 Let's get connected: ⤵️</h2>
+<h>
+
+[![Linkedin Badge](https://img.shields.io/badge/-melihmerall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melihmerall/)](https://www.linkedin.com/in/melihmerall/) <br> [![Twitter Badge](https://img.shields.io/badge/-@melihmerall-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melihmerall)](https://twitter.com/melihmerall) <br>  [![Facebook Badge](https://img.shields.io/badge/-@melihmeralll-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/melihmeralll/)](https://www.facebook.com/melihmeralll/) <br>  [![Instagram Badge](https://img.shields.io/badge/-@melihmerall-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/melih.merall/)](https://www.instagram.com/melih.merall/)
   <br> <br> <a href="https://giphy.com/" target="_blank" ><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" target="_blank" alt="Coder GIF" width="400"></a>
  </abc>
+ 
   
   <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
@@ -13,11 +22,4 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
   
-<h2 align="left"> 😎  About Me:</h2> 
--:computer: I am trying to become a Front-End developer as a first step. <br>
- -🎒 Management Information Systems Student at  <a href="https://www.atu.edu.tr/#!/" target="_blank"> ATU  </a>
- 
-<h2 align="left">💙 Let's get connected: ⤵️</h2>
-<h>
 
-[![Linkedin Badge](https://img.shields.io/badge/-melihmerall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melihmerall/)](https://www.linkedin.com/in/melihmerall/) <br> [![Twitter Badge](https://img.shields.io/badge/-@melihmerall-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melihmerall)](https://twitter.com/melihmerall) <br>  [![Facebook Badge](https://img.shields.io/badge/-@melihmeralll-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/melihmeralll/)](https://www.facebook.com/melihmeralll/) <br>  [![Instagram Badge](https://img.shields.io/badge/-@melihmerall-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/melih.merall/)](https://www.instagram.com/melih.merall/)
