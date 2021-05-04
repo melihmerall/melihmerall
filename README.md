@@ -1,6 +1,6 @@
  <abc>
-  <strong>Hi everyone!</strong> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
- <strong>I'm Melih</strong> :blush:
+  <strong>Hi everyone! :blush:</strong>  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+  <strong>I'm Melih</strong> 
  <h2 align="left"> 😎  About Me:</h2> 
 -:computer: I am trying to become a Front-End developer as a first step. <br>
  -🎒 Management Information Systems Student at  <a href="https://www.atu.edu.tr/#!/" target="_blank"> ATU  </a>
