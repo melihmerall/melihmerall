@@ -1,11 +1,9 @@
  <abc>
-<h1 align="center">Hi 👋, I'm Ekin Köseoğlu</h1>
-<h3 align="center">Senior year student of BSc of Electrical - Electronic Engineering at Karabuk University. Works in the software engineering field specializing in project management, software design & FullStack Developer. He is interested in web and audio technologies. He has experience in web technology frameworks Laravel and .NET with frontend knowledge of React.js, and Angular.js. As a graduation project, he is currently working on an Embedded Software Design for Smart Parking System. He has extensive knowledge in other fields like Restful APIs.</h3>
+<h1 align="center">Hi 👋, I'm Melih MERAL</h1>
+<h3 align="center">İnformation about meç.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihmerall&label=Profile%20views&color=0e75b6&style=flat" alt="ekinkoseoglu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihmerall" alt="melihmerall" /></a> </p>
-  <br> <br> <a href="https://giphy.com/" target="_blank" ><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" target="_blank" alt="Coder GIF" width="400"></a>
  </abc>
  
   
