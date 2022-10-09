@@ -1,6 +1,6 @@
  <abc>
 <h1 align="center">Hi 👋, I'm Melih MERAL</h1>
-<h3 align="center">İnformation about meç.</h3>
+<h3 align="center">Hello, I am a 4th year management information systems student. I am interested in back-end technologies and generally enjoy working as a full stack. I am working on web development. I am also interested in machine learning in my spare time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihmerall&label=Profile%20views&color=0e75b6&style=flat" alt="ekinkoseoglu" /> </p>
 
