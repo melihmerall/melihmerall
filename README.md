@@ -24,7 +24,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-melihmerall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melihmerall/)](https://www.linkedin.com/in/melihmerall/) <br> [![Twitter Badge](https://img.shields.io/badge/-@melihmerall-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melihmerall)](https://twitter.com/melihmerall) <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-melihmerall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codewithmelih/)](https://www.linkedin.com/in/melihmerall/) <br> [![Twitter Badge](https://img.shields.io/badge/-@melihmerall-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/melihmerall)](https://twitter.com/melihmerall) <br> 
 
 <p align="center" id="top-langs">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihmerall&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
