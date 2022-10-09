@@ -6,7 +6,7 @@
  -🎒 Management Information Systems Student at  <a href="https://www.atu.edu.tr/#!/" target="_blank"> ATU  </a>
  
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihmerall&label=Profile%20views&color=0e75b6&style=flat" alt="ekinkoseoglu" /> </p>
   <br> <br> <a href="https://giphy.com/" target="_blank" ><img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" target="_blank" alt="Coder GIF" width="400"></a>
  </abc>
  
