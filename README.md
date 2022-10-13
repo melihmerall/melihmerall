@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Melih MERAL</h1>
 <h3 align="center">Hello, I am a 4th year management information systems student. I am interested in back-end technologies and generally enjoy working as a full stack. I am working on web development. I am also interested in machine learning in my spare time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihmerall&label=Profile%20views&color=0e75b6&style=flat" alt="ekinkoseoglu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihmerall&label=Profile%20views&color=0e75b6&style=flat" alt="melihmerall" /> </p>
 
  </abc>
  
@@ -22,10 +22,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-melihmerall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codewithmelih/)](https://www.linkedin.com/in/melihmerall/) <br> [![Twitter Badge](https://img.shields.io/badge/-@melihmerall-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codewithmelih)](https://twitter.com/codewithmelih) <br> 
 
-<p align="center" id="top-langs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihmerall&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
-</p>
 
-<p align="center" id="github-resume-status">
-  <img src="https://github-readme-stats.vercel.app/api?username=melihmerall&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
-</p>
