@@ -8,11 +8,10 @@
 
 <p></p>
 
-<a href="https://melihmeral.dev"><img src="https://img.shields.io/badge/melihmeral.dev-0d1117?style=flat-square&logo=googlechrome&logoColor=3fb950" alt="Website"/></a>
-<a href="mailto:coder@melihmeral.dev"><img src="https://img.shields.io/badge/coder@melihmeral.dev-0d1117?style=flat-square&logo=maildotru&logoColor=58a6ff" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/melihmerall/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://twitter.com/melihmeralll"><img src="https://img.shields.io/badge/@melihmeralll-0d1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://bionluk.com/melihmeral"><img src="https://img.shields.io/badge/Hire_me-Bionluk-0d1117?style=flat-square&labelColor=3fb950" alt="Bionluk"/></a>
+<a href="https://melihmeral.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/melihmeral.dev-0d1117?style=flat-square&logo=googlechrome&logoColor=3fb950" alt="Website"/></a>
+<a href="mailto:coder@melihmeral.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/coder@melihmeral.dev-0d1117?style=flat-square&logo=maildotru&logoColor=58a6ff" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/melihmerall/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://x.com/melihmeralll" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/@melihmeralll-0d1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 
 </div>
 
@@ -46,7 +45,7 @@ These days I build **AI-native**: agents write a large share of the code, and I 
 | `2022–now` | **Project Development Manager / Team Lead** | HEXAOPS Technology · multiple digital products |
 | `2023–24` | **Backend Developer** (remote) | [Curie Soft, LLC](https://www.linkedin.com/company/curie-soft-llc/about/) · US-based SaaS |
 | `2023` | **Software Instructor** | [TALENT14 / Bilişim School](https://www.bilisimschool.com/) · C# & ASP.NET Core curriculum |
-| `2020–23` | **Freelance Developer** | [Bionluk](https://bionluk.com/melihmeral) · web apps & internal tools for SMEs |
+| `2020–23` | **Freelance Developer** | Independent · web apps & internal tools for SMEs |
 
 <details>
 <summary><b>Measured results</b></summary>
@@ -161,7 +160,7 @@ These days I build **AI-native**: agents write a large share of the code, and I 
 
 **Have a product, an API, or a legacy system that needs to move forward?**
 
-<a href="mailto:coder@melihmeral.dev"><img src="https://img.shields.io/badge/Let's_build_something_→-3fb950?style=for-the-badge&logoColor=white" alt="Contact"/></a>
+<a href="mailto:coder@melihmeral.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Let's_build_something_→-3fb950?style=for-the-badge&logoColor=white" alt="Contact"/></a>
 
 <sub><code>git push origin main --force  # calculated risk</code></sub>
 
